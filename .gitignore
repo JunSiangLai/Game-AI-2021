@@ -1,0 +1,17 @@
+# Visual Studio / C++ build output
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+ipch/
+*.user
+*.suo
+*.sdf
+*.VC.db
+*.opendb
+*.ilk
+*.pdb
+*.obj
+*.tlog
+*.log
+*.exe
